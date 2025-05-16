@@ -1,6 +1,6 @@
 # Hi, I’m [Mats Valgaeren](https://www.linkedin.com/in/mats-valgaeren-5176b52a3/) 👋
 
-Specializing in **Backend Pipeline Development**  
+Specializing in **Pipeline TD**  
 Studying [**VFX** @Howest-DAE](https://www.digitalartsandentertainment.be/page/30/VFX)  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
