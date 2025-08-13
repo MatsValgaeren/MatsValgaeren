@@ -20,13 +20,14 @@ If you ever need someone to explain why your code is more dramatic than a soap o
 
 ---
 
-## 🚀 Currently working on
+## 🚀 Currently
 
-- Advanced time management (for when you lose track of time)
-- Developing resilience through failed baking experiments
-- Negotiation tactics in high-stakes snack exchanges
-- Self-discovery through personality quizzes and questionable online surveys
-- The science of making the perfect cup of coffee (and drinking it before it gets cold)
+- Learning Vim Motions on Miryoku on a self build Corne Keyboard
+- Trying to get better at showering in a bathtub
+- Ignoring how bad my protein shakes taste
+- Discovering how much salt I can add to my mothers coffee before she notice
+- Forgetting the 41th digit of pi
+- Remembering I need to hang my clothes
 
 ---
 
